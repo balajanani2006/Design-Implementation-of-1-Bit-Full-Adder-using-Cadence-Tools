@@ -7,8 +7,8 @@ To design and implement a 1-bit full adder circuit using Cadence EDA tools and t
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+![image](https://github.com/user-attachments/assets/47bc7e9a-c0ad-46b9-a320-278721392a6f)
 
-![image](https://github.com/user-attachments/assets/12adbc64-31ee-425c-817e-86792d405768)
 
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
